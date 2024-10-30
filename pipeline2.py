@@ -26,6 +26,7 @@ tracks
 # Load
 tracks.to_csv(outputPath, index=False)
 
+
 # COMMAND ----------
 
 tracks
